@@ -1,0 +1,5 @@
+{
+  "name": "aws-async-type",
+  "type": "module",
+  "exports": "./aws-type.js"
+}
